@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Fatih
-- 👀 I’m interested in Software and Design
-- 🌱 I'm learning Flutter
